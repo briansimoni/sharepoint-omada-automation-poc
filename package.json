@@ -1,0 +1,31 @@
+{
+  "name": "sharepoint-automation-demo-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@koa/router": "^10.1.1",
+    "@microsoft/microsoft-graph-client": "^3.0.2",
+    "dotenv": "^16.0.0",
+    "handlebars": "^4.7.7",
+    "httpntlm": "^1.7.7",
+    "isomorphic-fetch": "^3.0.0",
+    "koa": "^2.13.4",
+    "koa-bodyparser": "^4.3.0",
+    "koa-mount": "^4.0.0",
+    "koa-session": "^6.2.0",
+    "koa-static": "^5.0.0",
+    "koa-views": "^7.0.0",
+    "ldapjs": "^2.3.1",
+    "node-fetch": "^3.2.0"
+  },
+  "devDependencies": {
+    "standard": "^16.0.4"
+  }
+}
